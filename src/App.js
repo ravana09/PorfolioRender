@@ -9,11 +9,11 @@ function App() {
       <Main />
       {/* <NavBar />
       <Home /> */}
-      <div className="content">
+      {/* <div className="content">
         <Routes>
           <Route path="/" element={<Main />} />
         </Routes>
-      </div>
+      </div> */}
     </Router>
   );
 }
